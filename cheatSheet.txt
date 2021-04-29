@@ -1,0 +1,11 @@
+cd copy the path where you start GitBash 
+git config --global user.email"chavanpavan254@gmail.com"
+git config --global user.name "PavanChavan"
+touch.gitgnore
+git init
+git add .
+git commit --m "initial commit"
+git status
+git remote add origin <ssh url.git>
+git push origin master <copy SSh key genearted>/"chavanpavan254@gmail.com" 
+cat copy publiv key path then enter enter 
