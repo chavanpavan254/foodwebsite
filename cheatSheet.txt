@@ -8,4 +8,4 @@ git commit --m "initial commit"
 git status
 git remote add origin <ssh url.git>
 git push origin master <copy SSh key genearted>/"chavanpavan254@gmail.com" 
-cat copy publiv key path then enter enter 
+cat copy public key path then enter enter 
